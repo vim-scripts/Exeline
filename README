@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5261
+
+Executes a command on `BufWritePost` events. E.g.:
+'!:exe [so %]' sources the file on each save.
+
+Defaults: exe, md, sass, less, jade, coffee.
+!::exe [expression] : executes expression.
+!::md [dir] : outputs file.html in dir. (default = file's dir )
+
+More detailed overview:
+https://github.com/romgrk/vim-exeline
