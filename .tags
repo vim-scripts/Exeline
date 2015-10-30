@@ -1,0 +1,127 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+ackprg	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let ackprg = join([$/;"	v	language:Vim
+AutodetectShiftWidth	/home/romgrk/.config/nvim/rc/function.vim	/^fu! AutodetectShiftWidth () "                                            {{{$/;"	f	language:Vim
+Autojump	/home/romgrk/.config/nvim/rc/function.vim	/^com! Autojump call Autojump('VimFiler')$/;"	c	language:Vim
+Autojump	/home/romgrk/.config/nvim/rc/function.vim	/^fu! Autojump(...)$/;"	f	language:Vim
+BookmarkFile	/home/romgrk/.config/nvim/rc/function.vim	/^com! BookmarkFile     call BookmarkFile()$/;"	c	language:Vim
+BookmarkFile	/home/romgrk/.config/nvim/rc/function.vim	/^fu! BookmarkFile(...) " {{{$/;"	f	language:Vim
+BookmarkLastHelp	/home/romgrk/.config/nvim/rc/function.vim	/^com! BookmarkLastHelp call BookmarkLastHelp()$/;"	c	language:Vim
+BookmarkLastHelp	/home/romgrk/.config/nvim/rc/function.vim	/^fu! BookmarkLastHelp() " {{{$/;"	f	language:Vim
+BufferClose	/home/romgrk/.config/nvim/rc/function.vim	/^com! -bar BufferClose      call BufferCloseCurrent()$/;"	c	language:Vim
+BufferCloseCurrent	/home/romgrk/.config/nvim/rc/function.vim	/^fu! BufferCloseCurrent ()$/;"	f	language:Vim
+BufferReopen	/home/romgrk/.config/nvim/rc/function.vim	/^com! -bar BufferReopen     call BufferReopenClosed()$/;"	c	language:Vim
+BufferReopenClosed	/home/romgrk/.config/nvim/rc/function.vim	/^fu! BufferReopenClosed()$/;"	f	language:Vim
+BufferWipeReopen	/home/romgrk/.config/nvim/rc/function.vim	/^com! -bar BufferWipeReopen call BufferWipeReopen()$/;"	c	language:Vim
+BufferWipeReopen	/home/romgrk/.config/nvim/rc/function.vim	/^fu! BufferWipeReopen(...)$/;"	f	language:Vim
+CharAt	/home/romgrk/.config/nvim/rc/function.vim	/^fu! CharAt(...)$/;"	f	language:Vim
+Clear	/home/romgrk/.config/nvim/rc/function.vim	/^com! -bar   Clear   exe 'normal! ggVGd'$/;"	c	language:Vim
+ctrlp_buftag_types	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let ctrlp_buftag_types = {$/;"	v	language:Vim
+deoplete#enable_smart_case	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let deoplete#enable_smart_case = 1$/;"	v	language:Vim
+deoplete#sources	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let deoplete#sources = {}$/;"	v	language:Vim
+EasyMotion_do_mapping	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let EasyMotion_do_mapping = 0$/;"	v	language:Vim
+EasyMotion_keys	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let EasyMotion_keys = "ajskdlf;ghurtioewpqznxmcbv23890,.[]ASDFJKL:GHQPWOEIRUTYZMXNCBV"$/;"	v	language:Vim
+easytags_async	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let easytags_async          = 1$/;"	v	language:Vim
+easytags_auto_highlight	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let easytags_auto_highlight = 1$/;"	v	language:Vim
+easytags_auto_update	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let easytags_auto_update    = 1$/;"	v	language:Vim
+easytags_dynamic_files	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let easytags_dynamic_files  = 2$/;"	v	language:Vim
+easytags_languages	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let easytags_languages      = {$/;"	v	language:Vim
+easytags_resolve_links	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let easytags_resolve_links  = 1$/;"	v	language:Vim
+EchoHL	/home/romgrk/.config/nvim/rc/function.vim	/^com! -nargs=* -complete=highlight EchoHL  call EchoHL(<f-args>)$/;"	c	language:Vim
+EchoHL	/home/romgrk/.config/nvim/rc/function.vim	/^fu! EchoHL(hlgroup, ...) " {{{$/;"	f	language:Vim
+Echon	/home/romgrk/.config/nvim/rc/function.vim	/^com! -nargs=* -complete=highlight Echon   call Echon(<f-args>)$/;"	c	language:Vim
+Echon	/home/romgrk/.config/nvim/rc/function.vim	/^fu! Echon(...) " {{{$/;"	f	language:Vim
+EchonHL	/home/romgrk/.config/nvim/rc/function.vim	/^com! -nargs=* -complete=highlight EchonHL call EchonHL(<f-args>)$/;"	c	language:Vim
+EchonHL	/home/romgrk/.config/nvim/rc/function.vim	/^fu! EchonHL(hlgroup, ...) " {{{$/;"	f	language:Vim
+Edit	/home/romgrk/.config/nvim/rc/function.vim	/^com! -nargs=1 -complete=file Edit call Edit(<f-args>)$/;"	c	language:Vim
+Edit	/home/romgrk/.config/nvim/rc/function.vim	/^fu! Edit(file) " {{{$/;"	f	language:Vim
+EditFtplugin	/home/romgrk/.config/nvim/rc/function.vim	/^com! EditFtplugin                 call EditFtplugin()$/;"	c	language:Vim
+EditFtplugin	/home/romgrk/.config/nvim/rc/function.vim	/^fu! EditFtplugin(...) " {{{$/;"	f	language:Vim
+Exeline	/home/romgrk/github/vim/vim-exeline/plugin/exeline.vim	/^augroup Exeline$/;"	a	language:Vim
+exeline#coffee	/home/romgrk/github/vim/vim-exeline/autoload/exeline.vim	/^function! exeline#coffee (expression) " {{{1$/;"	f	language:Vim
+exeline#exe	/home/romgrk/github/vim/vim-exeline/autoload/exeline.vim	/^function! exeline#exe (expression) " {{{1$/;"	f	language:Vim
+exeline#find	/home/romgrk/github/vim/vim-exeline/autoload/exeline.vim	/^function! exeline#find () " {{{1$/;"	f	language:Vim
+exeline#jade	/home/romgrk/github/vim/vim-exeline/autoload/exeline.vim	/^function! exeline#jade (expression) " {{{1$/;"	f	language:Vim
+exeline#less	/home/romgrk/github/vim/vim-exeline/autoload/exeline.vim	/^function! exeline#less (expression) " {{{1$/;"	f	language:Vim
+exeline#md	/home/romgrk/github/vim/vim-exeline/autoload/exeline.vim	/^function! exeline#md (expression) " {{{1$/;"	f	language:Vim
+exeline#sass	/home/romgrk/github/vim/vim-exeline/autoload/exeline.vim	/^function! exeline#sass (expression) " {{{1$/;"	f	language:Vim
+ExitHandler	/home/romgrk/.config/nvim/rc/function.vim	/^fu! ExitHandler () " {{{$/;"	f	language:Vim
+FoldFunction	/home/romgrk/.config/nvim/rc/function.vim	/^fu! FoldFunction() " {{{$/;"	f	language:Vim
+g:bookmarks	/home/romgrk/.config/nvim/rc/function.vim	/^let g:bookmarks = $HOME . '\/.config\/nvim\/.bookmarks'$/;"	v	language:Vim
+GetChar	/home/romgrk/.config/nvim/rc/function.vim	/^fu! GetChar(...) " {{{$/;"	f	language:Vim
+GetNewTerminalWindow	/home/romgrk/.config/nvim/rc/function.vim	/^fu! GetNewTerminalWindow(...) " {{{$/;"	f	language:Vim
+GetTerminalWindow	/home/romgrk/.config/nvim/rc/function.vim	/^com! GetTerminalWindow       call GetTerminalWindow()$/;"	c	language:Vim
+GetTerminalWindow	/home/romgrk/.config/nvim/rc/function.vim	/^fu! GetTerminalWindow(...) " {{{$/;"	f	language:Vim
+GoFirstListedWindow	/home/romgrk/.config/nvim/rc/function.vim	/^com! GoFirstListedWindow  call GoFirstListedWindow()$/;"	c	language:Vim
+GoFirstListedWindow	/home/romgrk/.config/nvim/rc/function.vim	/^fu! GoFirstListedWindow() " {{{$/;"	f	language:Vim
+GoNextListedWindow	/home/romgrk/.config/nvim/rc/function.vim	/^com! GoNextListedWindow   call GoNextListedWindow()$/;"	c	language:Vim
+GoNextListedWindow	/home/romgrk/.config/nvim/rc/function.vim	/^fu! GoNextListedWindow() " {{{$/;"	f	language:Vim
+GoNextTerminalBuffer	/home/romgrk/.config/nvim/rc/function.vim	/^fu! GoNextTerminalBuffer (...)$/;"	f	language:Vim
+GoNextVimfilerWindow	/home/romgrk/.config/nvim/rc/function.vim	/^com! GoNextVimfilerWindow call GoNextVimfilerWindow()$/;"	c	language:Vim
+GoNextVimfilerWindow	/home/romgrk/.config/nvim/rc/function.vim	/^fu! GoNextVimfilerWindow() " {{{$/;"	f	language:Vim
+GotoFirstTerminalWindow	/home/romgrk/.config/nvim/rc/function.vim	/^com! GotoFirstTerminalWindow call GotoFirstTerminalWindow()$/;"	c	language:Vim
+GotoFirstTerminalWindow	/home/romgrk/.config/nvim/rc/function.vim	/^fu! GotoFirstTerminalWindow() " {{{$/;"	f	language:Vim
+GoToFunction	/home/romgrk/.config/nvim/rc/function.vim	/^fu! GoToFunction () " {{{$/;"	f	language:Vim
+HAS	/home/romgrk/.config/nvim/rc/function.vim	/^com! -nargs=1                    HAS echo has('<args>')$/;"	c	language:Vim
+HL	/home/romgrk/.config/nvim/rc/function.vim	/^fu! HL (group, text)$/;"	f	language:Vim
+incsearch#auto_nohlsearch	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let incsearch#auto_nohlsearch = 1$/;"	v	language:Vim
+IndentWithI	/home/romgrk/.config/nvim/rc/function.vim	/^fu! IndentWithI()$/;"	f	language:Vim
+indent_guides_default_mapping	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let indent_guides_default_mapping = 0$/;"	v	language:Vim
+indent_guides_exclude_filetypes	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let indent_guides_exclude_filetypes = ['help', 'vimfiler', 'terminal']$/;"	v	language:Vim
+Input	/home/romgrk/.config/nvim/rc/function.vim	/^fu! Input(msg, callback) " {{{$/;"	f	language:Vim
+ListFunctions	/home/romgrk/.config/nvim/rc/function.vim	/^fu! ListFunctions (lead, line, pos) " {{{$/;"	f	language:Vim
+LoadHandler	/home/romgrk/.config/nvim/rc/function.vim	/^fu! LoadHandler () " {{{$/;"	f	language:Vim
+LOG	/home/romgrk/.config/nvim/rc/function.vim	/^com! -nargs=* -complete=function LOG call PrintWithoutNewlines(<args>)$/;"	c	language:Vim
+NextTerminalBuffer	/home/romgrk/.config/nvim/rc/function.vim	/^com! NextTerminalBuffer     call GoNextTerminalBuffer()$/;"	c	language:Vim
+OpenBufferInNewTab	/home/romgrk/.config/nvim/rc/function.vim	/^com! OpenBufferInNewTab tab sview %$/;"	c	language:Vim
+OpenRoadmap	/home/romgrk/.config/nvim/rc/function.vim	/^com! OpenRoadmap      call OpenRoadmap()$/;"	c	language:Vim
+OpenRoadmap	/home/romgrk/.config/nvim/rc/function.vim	/^fu! OpenRoadmap() " {{{$/;"	f	language:Vim
+OpenTerminal	/home/romgrk/.config/nvim/rc/function.vim	/^com! OpenTerminal            call OpenTerminal()$/;"	c	language:Vim
+OpenTerminal	/home/romgrk/.config/nvim/rc/function.vim	/^fu! OpenTerminal(...) " {{{$/;"	f	language:Vim
+OpenTerminalHere	/home/romgrk/.config/nvim/rc/function.vim	/^com! OpenTerminalHere        call OpenTerminal(1)$/;"	c	language:Vim
+pcall	/home/romgrk/github/vim/vim-exeline/autoload/exeline.vim	/^function! s:pcall(fx, arguments)$/;"	f	language:Vim
+PreviousTerminalBuffer	/home/romgrk/.config/nvim/rc/function.vim	/^com! PreviousTerminalBuffer call GoNextTerminalBuffer(1)$/;"	c	language:Vim
+PrintChars	/home/romgrk/.config/nvim/rc/function.vim	/^fu! PrintChars(base, range, ...) " {{{$/;"	f	language:Vim
+PrintWithoutNewlines	/home/romgrk/.config/nvim/rc/function.vim	/^fu! PrintWithoutNewlines(value) " {{{$/;"	f	language:Vim
+QuickReload	/home/romgrk/.config/nvim/rc/function.vim	/^fu! QuickReload ()$/;"	f	language:Vim
+ReopenHelp	/home/romgrk/.config/nvim/rc/function.vim	/^com! ReopenHelp       call ReopenHelp()$/;"	c	language:Vim
+ReopenHelp	/home/romgrk/.config/nvim/rc/function.vim	/^fu! ReopenHelp() " {{{$/;"	f	language:Vim
+ReplaceFrom	/home/romgrk/.config/nvim/rc/function.vim	/^fu! ReplaceFrom()$/;"	f	language:Vim
+Reset	/home/romgrk/.config/nvim/rc/function.vim	/^com! -nargs=* -bar Reset call Reset(<args>)$/;"	c	language:Vim
+Reset	/home/romgrk/.config/nvim/rc/function.vim	/^fu! Reset(...)$/;"	f	language:Vim
+session_autoload	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let session_autoload = 'yes'$/;"	v	language:Vim
+session_autosave	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let session_autosave = 'yes'$/;"	v	language:Vim
+session_autosave_periodic	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let session_autosave_periodic = 1$/;"	v	language:Vim
+session_autosave_silent	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let session_autosave_silent = 1$/;"	v	language:Vim
+session_command_aliases	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let session_command_aliases = 1$/;"	v	language:Vim
+session_default_to_last	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let session_default_to_last = 1$/;"	v	language:Vim
+session_directory	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let session_directory = $VIM_DIR . '\/sessions'$/;"	v	language:Vim
+session_persist_colors	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let session_persist_colors = 0$/;"	v	language:Vim
+So	/home/romgrk/.config/nvim/rc/function.vim	/^com! -bar   So      so %$/;"	c	language:Vim
+SO	/home/romgrk/.config/nvim/rc/function.vim	/^com! -bar   SO      w|so %$/;"	c	language:Vim
+splitjoin_join_mapping	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let splitjoin_join_mapping  = ''$/;"	v	language:Vim
+splitjoin_split_mapping	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let splitjoin_split_mapping = ''$/;"	v	language:Vim
+StoreBuffer	/home/romgrk/.config/nvim/rc/function.vim	/^fu! StoreBuffer(bufferName)$/;"	f	language:Vim
+SynCurrent	/home/romgrk/.config/nvim/rc/function.vim	/^com! SynCurrent   call SynCurrent()$/;"	c	language:Vim
+SynCurrent	/home/romgrk/.config/nvim/rc/function.vim	/^fu! SynCurrent()$/;"	f	language:Vim
+SynStack	/home/romgrk/.config/nvim/rc/function.vim	/^com! SynStack     call SyntaxStack()$/;"	c	language:Vim
+SyntaxStack	/home/romgrk/.config/nvim/rc/function.vim	/^fu! SyntaxStack() " {{{$/;"	f	language:Vim
+targets_pairs	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let targets_pairs = '()b {}B []r <>'$/;"	v	language:Vim
+termsize	/home/romgrk/.config/nvim/rc/function.vim	/^let termsize = 13$/;"	v	language:Vim
+ToggleSyntax	/home/romgrk/.config/nvim/rc/function.vim	/^com! ToggleSyntax call ToggleSyntax()$/;"	c	language:Vim
+ToggleSyntax	/home/romgrk/.config/nvim/rc/function.vim	/^fu! ToggleSyntax()$/;"	f	language:Vim
+ToggleTerminalWindow	/home/romgrk/.config/nvim/rc/function.vim	/^com! ToggleTerminalWindow    call ToggleTerminalWindow()$/;"	c	language:Vim
+ToggleTerminalWindow	/home/romgrk/.config/nvim/rc/function.vim	/^fu! ToggleTerminalWindow() " {{{$/;"	f	language:Vim
+Trim	/home/romgrk/.config/nvim/rc/function.vim	/^fu! Trim (str)$/;"	f	language:Vim
+Type	/home/romgrk/.config/nvim/rc/function.vim	/^fu! Type (obj)$/;"	f	language:Vim
+typescript_indent_disable	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let typescript_indent_disable = 0$/;"	v	language:Vim
+UltiSnipsSnippetDirectories	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let UltiSnipsSnippetDirectories  = [$VIM_DIR.'\/after\/snip']$/;"	v	language:Vim
+UltiSnipsSnippetsDir	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let UltiSnipsSnippetsDir         = $VIM_DIR.'\/after\/snip'$/;"	v	language:Vim
+unite_force_overwrite_statusline	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let unite_force_overwrite_statusline = 1$/;"	v	language:Vim
+WinMain	/home/romgrk/.config/nvim/rc/function.vim	/^com! WinMain              call GoFirstListedWindow()$/;"	c	language:Vim
+yankring_history_dir	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let yankring_history_dir        = $HOME . '\/.cache'$/;"	v	language:Vim
+yankring_history_file	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let yankring_history_file       = '.yankring'$/;"	v	language:Vim
+yankring_min_element_length	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let yankring_min_element_length = 2$/;"	v	language:Vim
+yankring_o_keys	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let yankring_o_keys  = 'b B w W e E d h j k l H M L y G ^ 0 $ , ;'$/;"	v	language:Vim
+yankring_o_keys	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let yankring_o_keys .= ' g_  g^ gm g$ gk gj gg ge gE - + _ '$/;"	v	language:Vim
+yankring_paste_using_g	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let yankring_paste_using_g = 0$/;"	v	language:Vim
+yankring_replace_n_nkey	/home/romgrk/.config/nvim/rc/plugins/general.vim	/^let yankring_replace_n_nkey = ''$/;"	v	language:Vim
